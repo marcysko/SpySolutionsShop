@@ -1,6 +1,7 @@
 # SpySolutionsShop
 
 ## Description
+Spy Solutions is a MERN stack e-commerce site that allows users to signup or login, view and purchase spy equipment and view order history. It also offers offline functionality and can handle secure online payments with Stripe. 
 
 ## Weblink
 https://morning-tundra-00231.herokuapp.com/
