@@ -17,7 +17,7 @@ https://morning-tundra-00231.herokuapp.com/
 - MongoDB
 - Mongoose
 - JWT
-- Combined IndexedDB with Service Workers for storing data offline
+- Combined IndexedDB with Service Worker for storing data offline
 - Heroku
 
 
